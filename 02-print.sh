@@ -17,7 +17,7 @@ echo Hello World,\n\t Welcome
 
 #Syntax:echo -e "\e[COLmMESSAGE"
 #colors and there codes are
-#red-31, Green-32, Yellow-33, Blue-34,Magenta-35, Cyan-36
+#Red-31, Green-32, Yellow-33, Blue-34,Magenta-35, Cyan-36
 
 echo -e "\e[31mMessage in RED"
 echo -e "\e[33mMessage in YELLOW"
