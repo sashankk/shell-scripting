@@ -6,3 +6,7 @@ echo A= $A
 ## Command substitution
 NO_OF_USERS=$(who |wc -1)
 echo Number of Users =$NO_OF_USERS
+
+## Date with command substitution
+DATE=$(date +%F)
+echo Welcome, Today date is $DATE
